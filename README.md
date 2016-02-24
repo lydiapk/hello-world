@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Lydia and I am a senior in high school.
